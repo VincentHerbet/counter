@@ -1,0 +1,26 @@
+body {
+    background-color: #1e1e1e;
+    margin: 150px;
+}
+
+h1 {
+    text-align: center;
+    color: #e1e1e0;
+}
+
+button {
+    background-color: #BA86FD;
+    padding: 0;
+    color: #1e1429;
+    border: none;
+    border-radius: 5px;
+    width: 50px;
+    margin-left: 10px;
+}
+
+.Mybuttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
